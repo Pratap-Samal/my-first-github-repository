@@ -1,1 +1,2 @@
 This is another-file.txt  [ to check fast forward merge ] 
+This is a line added in remote repository
